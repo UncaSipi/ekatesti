@@ -1,2 +1,4 @@
 tiedosto jossa on tekstiä, tehty githubissa
 tää rivi tehtiin ny visual studio codella
+
+nyt lisäsin vieläkin uuden rivin ja hello.js kans
